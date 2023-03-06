@@ -1,5 +1,5 @@
 # HackerRank-Basics-Questions
-Hey Folks, In this repository I'm sharing my code for HackerRank Python Basic Questions. 
+Hey there, In this repository I'm sharing my code for HackerRank Python Basic Questions. 
 
 ## Files Informations :- 
 1. Python Introduction [https://www.hackerrank.com/domains/python?filters%5Bsubdomains%5D%5B%5D=py-introduction]
